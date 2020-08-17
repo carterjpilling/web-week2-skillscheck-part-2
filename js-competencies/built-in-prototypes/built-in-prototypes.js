@@ -10,7 +10,8 @@
 //use the built-in array method .map
   
   //Code here
-
+function dragonMapper(array)
+array.map()
 
 
 //////////////////PROBLEM 2////////////////////
